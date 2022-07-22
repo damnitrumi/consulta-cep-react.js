@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FieldContainer /> should render 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 2.4rem;
+}
+
+.c1 {
+  font-size: 2.4rem;
+}
+
+.c2 {
+  padding: 0.8rem;
+  outline-color: #0fccff;
+  font-size: 1.6rem;
+}
+
+<div
+  class="c0"
+>
+  <label
+    class="c1"
+    for="teste"
+  >
+    Teste
+  </label>
+  <input
+    class="c2"
+    id="teste"
+    placeholder="Digite seu CEP no primeiro campo"
+    readonly=""
+    type="text"
+    value=""
+  />
+</div>
+`;

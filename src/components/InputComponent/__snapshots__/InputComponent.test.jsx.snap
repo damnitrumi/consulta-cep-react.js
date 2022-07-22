@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InputComponent /> should render with function and call function snapshot 1`] = `
+.c0 {
+  padding: 0.8rem;
+  outline-color: #0fccff;
+  font-size: 1.6rem;
+}
+
+<input
+  class="c0"
+  id="teste"
+  placeholder="Digite seu CEP (ex: 00000-000) e pressione a tecla 'tab' ou clique fora do campo de pesquisa"
+  type="text"
+/>
+`;
+
+exports[`<InputComponent /> should render without function snapshot 1`] = `
+.c0 {
+  padding: 0.8rem;
+  outline-color: #0fccff;
+  font-size: 1.6rem;
+}
+
+<input
+  class="c0"
+  id="teste"
+  placeholder="Digite seu CEP no primeiro campo"
+  readonly=""
+  type="text"
+  value=""
+/>
+`;

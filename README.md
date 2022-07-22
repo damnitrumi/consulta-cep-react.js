@@ -1,3 +1,5 @@
+Aplicação que faz uma busca em um cep fornecido pelo usuário, consumindo a API do viacep, retorna os dados e coloca em seus respectivos campos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
