@@ -1,5 +1,7 @@
 Aplicação que faz uma busca em um cep fornecido pelo usuário, consumindo a API do viacep, retorna os dados e coloca em seus respectivos campos.
 
+App that searches for a CEP (Brazilian Postal Code) provided by the user, consuming Viacep's API, returning the fetched data and setting it on it's respective fields.
+
 Deploy: https://consulta-cep-react-js-damnitrumi.vercel.app/
 
 # Getting Started with Create React App
